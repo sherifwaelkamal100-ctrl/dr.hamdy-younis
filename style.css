@@ -1,0 +1,154 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: #0a284c;
+    border: 0px #0a284c solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 20px;
+
+}
+
+.logo {
+    width: 100px;
+    border-radius: 50px;
+}
+
+.link a {
+    color: white;
+    padding: 5px 15px;
+    border-radius: 15px;
+    text-decoration: none;
+}
+
+.link a:hover {
+    background-color: #164176;
+}
+
+.link button {
+    background-color: #164176;
+    color: white;
+    border-radius: 15px;
+    padding: 5px 10px;
+    color: #ffffff;
+    border: none;
+}
+
+.link button:hover {
+    background-color: #140e82;
+    padding: 3px 10px;
+}
+
+.landing-page {
+    background-color: #0a284c;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 50px;
+    color: #ffffff;
+    border-radius: 0 0 39px 50px;
+
+}
+
+.landing-page-search input {
+    border-radius: 50px;
+    outline: none;
+    height: 30px;
+    padding: 0 10px;
+}
+
+.landing-page-search button {
+    position: absolute;
+    left: 180px;
+    border-radius: 30px;
+    height: 34px;
+    background-color: #164176;
+    border: none;
+    color: #ffffff;
+
+}
+
+.landing-page-search button:hover {
+    background-color: #140e82;
+}
+
+.landing-page-image-container img {
+    border-radius: 20px;
+    width: px;
+}
+
+.landing-page-left-section {
+    width: 300px;
+
+}
+
+.Trending-container {
+    color: #ffffff;
+}
+
+
+.body {
+    background-color: #272727;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.audio {
+    color: #0a284c;
+}
+
+.bodyone {
+    background-color: #272727;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.Email input {
+    border-radius: 30px;
+    border: none;
+    outline: none;
+    height: 30px;
+}
+
+.signin {
+    color: #ffffff;
+    border-radius: 30px;
+    background-color: #164176;
+    border: none;
+    height: 30px;
+}
+
+.signin:hover {
+    background-color: #140e82;
+}
+
+.Email {
+    color: #ffffff;
+}
+
+
+.landing-page-image-container img {
+    border-radius: 35px;
+    width: 220px;
+    padding: 15px 15px;
+
+
+}
+
+.landing-page-image-container {
+    padding: 50px 50px;
+}
+
+.name {
+    color: #ffffff;
+}
+
+.connect {
+    color: #ffffff;
+    background-color: #272727;
+    max-width: 100%;
+    max-height: 100%;
+}
